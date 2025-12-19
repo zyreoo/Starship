@@ -128,7 +128,6 @@ This is the official website for Starship Hackathon. For updates or contribution
 ## 📧 Contact
 
 For questions or inquiries:
-- **Email**: contact@starship.ro
 - **Website**: [starshipcluj.ro](https://starshipcluj.ro)
 
 ## 📄 License
